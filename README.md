@@ -1,27 +1,20 @@
-# Ardu-man
+## **Ardu-man**
 
-For Arduboy lib 1.1 and the consumer Arduboy device
+This project has been developed by [Seth Robinson][1] and forked directly from [
+arduman_arduboylib11 ][2].
 
-It's Ardu-man!  A game not completely dissimilar from pac-man.
+You can read the original README file from [here][3].
 
-Play it in your browser too! www.rtsoft.com/arduman.html
+You can download the .hex file of this project **compiled for watchX** from [here][4].
 
-Version history:
+## **License**
 
-V1.00:  Initial release
+This project has been released under the MIT License by it's developer.
 
-Credits:
+The full document can be found in the [LICENSE][5] file.
 
-Programming/music/etc:  Seth A. Robinson
-
-Thanks to:
-
-- The arduboy team
-- foupy and his cool image converter: http://fuopy.github.io/arduboy-image-converter/
-- miditones for midi conversion
-- Highscore code by nootropic design
-
-Contact:
-
-seth@rtsoft.com
-www.rtsoft.com
+[1]: https://github.com/SethRobinson
+[2]: https://github.com/SethRobinson/arduman_arduboylib11
+[3]: Orijinal-Readme
+[4]: watchX-Hex
+[5]: https://github.com/argeX-official/Game-arduman_arduboylib11/blob/master/LICENSE.md
