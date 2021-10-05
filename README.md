@@ -16,5 +16,5 @@ The full document can be found in the [LICENSE][5] file.
 [1]: https://github.com/SethRobinson
 [2]: https://github.com/SethRobinson/arduman_arduboylib11
 [3]: https://github.com/argeX-official/Game-arduman_arduboylib11/blob/master/OLD_README.md
-[4]: https://github.com/argeX-official/Game-arduman_arduboylib11/releases/tag/1.0
+[4]: https://github.com/argeX-official/Game-arduman_arduboylib11/releases
 [5]: https://github.com/argeX-official/Game-arduman_arduboylib11/blob/master/LICENSE.md
