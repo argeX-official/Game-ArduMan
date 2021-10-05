@@ -1,4 +1,4 @@
-## **Ardu-man**
+## **ArduMan**
 
 This project has been developed by [Seth Robinson][1] and forked directly from [
 arduman_arduboylib11][2].
